@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/mohse/Desktop/Projects/mui/src/app/page.tsx"],"sourcesContent":["import Image from \"next/image\";\n\nexport default function Home() {\n  return <>Index</>;\n}\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBAAO;kBAAE;;AACX"}}]
+}

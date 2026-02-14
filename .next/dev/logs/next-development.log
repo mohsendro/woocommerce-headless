@@ -1,0 +1,1276 @@
+[00:00:01.276] Server  LOG     ✓ Ready in 902ms
+[00:00:06.995] Server  LOG     ○ Compiling / ...
+[00:09:33.410] Server  LOG     ✓ Compiled in 31ms
+[00:09:46.720] Server  LOG     ✓ Compiled in 311ms
+[00:09:51.743] Server  LOG     ✓ Compiled in 177ms
+[00:10:02.303] Server  LOG     ✓ Compiled in 108ms
+[00:10:06.559] Server  ERROR   ⨯ ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+
+
+[00:10:06.728] Browser ERROR   ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+[00:10:07.287] Browser ERROR   ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+[00:10:07.287] Browser ERROR   ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+[00:10:07.532] Server  ERROR   ⨯ ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+
+
+[00:10:07.534] Browser ERROR   ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+[00:10:07.554] Server  ERROR   ⨯ ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+
+
+[00:10:07.558] Server  ERROR   ⨯ ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+
+
+[00:10:07.584] Server  ERROR   ⨯ ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+
+
+[00:10:07.601] Server  ERROR   ⨯ ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+
+
+[00:10:07.618] Server  ERROR   ⨯ ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+
+
+[00:10:07.830] Browser ERROR   uncaughtError: Error: ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+
+
+[00:10:08.202] Browser ERROR   ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+[00:10:08.202] Browser ERROR   ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+[00:10:08.202] Browser ERROR   ./src/app/favicon.ico
+Processing image failed
+unable to decode image data
+
+Caused by:
+- Format error decoding Ico: ICO image entry has too many color planes or too large hotspot value
+- ICO image entry has too many color planes or too large hotspot value
+[00:10:14.797] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:14.798] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/shared/lib/router/router.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:14.798] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:58.273] Server  LOG     ✓ Compiled in 112ms
+[00:16:07.427] Server  ERROR   ⨯ ReferenceError: Header is not defined
+[00:16:07.458] Server  ERROR   ⨯ ReferenceError: Header is not defined
+[00:16:08.297] Browser ERROR   uncaughtError: ReferenceError: Header is not defined
+[00:16:08.431] Server  ERROR   ⨯ ReferenceError: Header is not defined
+[00:16:09.352] Browser ERROR   uncaughtError: ReferenceError: Header is not defined
+[00:16:14.609] Server  ERROR   ⨯ ReferenceError: Header is not defined
+[00:16:15.349] Browser ERROR   uncaughtError: ReferenceError: Header is not defined
+[00:16:24.502] Server  ERROR   ⨯ ReferenceError: Header is not defined
+[00:16:25.345] Browser ERROR   uncaughtError: ReferenceError: Header is not defined
+[00:16:32.133] Server  ERROR   ⨯ ReferenceError: Header is not defined
+[00:16:33.360] Browser ERROR   uncaughtError: ReferenceError: Header is not defined
+[00:16:43.973] Server  ERROR   ⨯ ReferenceError: Header is not defined
+[00:16:45.355] Browser ERROR   uncaughtError: ReferenceError: Header is not defined
+[00:16:51.228] Server  ERROR   ⨯ ReferenceError: Header is not defined
+[00:16:52.346] Browser ERROR   uncaughtError: ReferenceError: Header is not defined
+[00:16:55.877] Server  ERROR   ⨯ ReferenceError: Header is not defined
+[00:16:56.363] Browser ERROR   uncaughtError: ReferenceError: Header is not defined
+[00:17:04.798] Server  ERROR   ⨯ ReferenceError: Header is not defined
+[00:17:05.356] Browser ERROR   uncaughtError: ReferenceError: Header is not defined
+[00:17:18.208] Server  ERROR   ⨯ ReferenceError: Header is not defined
+[00:17:19.345] Browser ERROR   uncaughtError: ReferenceError: Header is not defined
+[00:19:12.350] Browser ERROR   ./src/components/header/TopBar.jsx:7:7
+Parsing ecmascript source code failed
+   5 |         TopBar
+   6 |       </Typography>
+>  7 |     </Container>
+     |       ^^^^^^^^^
+   8 |   </>;
+   9 | };
+  10 |
+
+Expected '>', got 'ident'
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+[00:19:26.355] Browser ERROR   ./src/components/header/TopBar.jsx:15:7
+Parsing ecmascript source code failed
+  13 |         TopBar
+  14 |       </Typography>
+> 15 |     </Container>
+     |       ^^^^^^^^^
+  16 |   </>;
+  17 | };
+  18 |
+
+Expected '>', got 'ident'
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+[00:21:17.345] Browser ERROR   uncaughtError: ReferenceError: Typography is not defined
+[00:21:23.850] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:21:24.042] Server  ERROR   ⨯ ReferenceError: Typography is not defined
+[00:21:24.055] Server  LOG     ✓ Compiled in 25ms
+[00:21:25.356] Browser ERROR   uncaughtError: ReferenceError: Typography is not defined
+[00:22:52.682] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:22:52.853] Server  ERROR   ⨯ ReferenceError: Typography is not defined
+[00:22:52.864] Server  LOG     ✓ Compiled in 21ms
+[00:22:54.351] Browser ERROR   uncaughtError: ReferenceError: Typography is not defined
+[00:22:55.145] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:22:55.309] Server  ERROR   ⨯ ReferenceError: Typography is not defined
+[00:22:55.320] Server  LOG     ✓ Compiled in 18ms
+[00:22:56.358] Browser ERROR   uncaughtError: ReferenceError: Typography is not defined
+[00:23:03.183] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:23:03.346] Server  ERROR   ⨯ ReferenceError: Typography is not defined
+[00:23:03.358] Server  LOG     ✓ Compiled in 17ms
+[00:23:04.348] Browser ERROR   uncaughtError: ReferenceError: Typography is not defined
+[00:23:15.857] Server  LOG     ✓ Compiled in 101ms
+[00:23:15.880] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:23:16.789] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body className="geist_a715...">
+                            <Header>
+                              <TopBar>
+                                <Container component="section" maxWidth="lg" sx={{...}}>
+                                  <MuiContainer-root as="section" ownerState={{...}} className="MuiContain..." ref={null} ...>
+                                    <Insertion>
++                                   <section
++                                     className="MuiContainer-root MuiContainer-maxWidthLg css-t86rsj-MuiContainer-root"
++                                   >
+-                                   <style data-emotion="css t86rsj-MuiContainer-root" data-s="">
+                            ...
+                  ...
+
+[00:24:01.402] Server  LOG     ✓ Compiled in 43ms
+[00:24:17.747] Server  LOG     ✓ Compiled in 33ms
+[00:25:16.074] Server  LOG     ✓ Compiled in 15ms
+[00:25:18.760] Server  LOG     ✓ Compiled in 17ms
+[00:26:02.114] Server  LOG     ✓ Compiled in 123ms
+[00:26:02.349] Browser WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[00:28:25.505] Server  LOG     ✓ Compiled in 16ms
+[00:28:59.066] Server  LOG     ✓ Compiled in 15ms
+[00:29:46.796] Server  LOG     ✓ Compiled in 19ms
+[00:35:32.361] Server  LOG     ✓ Compiled in 18ms
+[00:35:35.095] Server  LOG     ✓ Compiled in 17ms
+[00:37:40.865] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.867] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.868] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.868] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.870] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.870] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.871] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.872] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.873] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.873] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.874] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.875] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.876] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.877] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.878] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.878] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:40.903] Server  LOG     ✓ Compiled in 21ms
+[00:37:41.351] Browser ERROR   ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:37:47.600] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.601] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.602] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.602] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.603] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.604] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.605] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.606] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.607] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.608] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.609] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.609] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.610] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.611] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.612] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.613] Server  ERROR   ⨯ ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:37:47.641] Server  LOG     ✓ Compiled in 15ms
+[00:37:48.349] Browser ERROR   ./src/components/header/TopBar.jsx:17:1
+Module not found: Can't resolve './TopBar.module.css'
+  15 |
+  16 | // Styles
+> 17 | import "./TopBar.module.css";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | const TopBar = () => {
+  20 |   return (
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:38:34.685] Server  LOG     ✓ Compiled in 20ms
+[00:38:47.596] Server  LOG     ✓ Compiled in 22ms
+[00:38:52.307] Server  WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[00:38:52.966] Browser WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[00:38:52.966] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body className="geist_a715...">
+                            <Header>
+                              <TopBar>
+                                <Container className="top-bar" component="section" maxWidth="lg" sx={{...}}>
+                                  <MuiContainer-root as="section" ownerState={{...}} className="MuiContain..." ref={null} ...>
+                                    <Insertion>
++                                   <section
++                                     className="MuiContainer-root MuiContainer-maxWidthLg top-bar css-qzafox-MuiConta..."
++                                   >
+-                                   <style data-emotion="css qzafox-MuiContainer-root" data-s="">
+                            ...
+                  ...
+
+[00:39:13.992] Server  LOG     ✓ Compiled in 17ms
+[00:39:45.886] Server  LOG     ✓ Compiled in 16ms
+[00:39:55.881] Server  WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[00:39:56.636] Browser WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[00:39:56.636] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body className="geist_a715...">
+                            <Header>
+                              <TopBar>
+                                <Container className="TopBar-mod..." component="section" maxWidth="lg" sx={{...}}>
+                                  <MuiContainer-root as="section" ownerState={{...}} className="MuiContain..." ref={null} ...>
+                                    <Insertion>
++                                   <section
++                                     className="MuiContainer-root MuiContainer-maxWidthLg TopBar-module__XKU1aa__top-..."
++                                   >
+-                                   <style data-emotion="css qzafox-MuiContainer-root" data-s="">
+                            ...
+                  ...
+
+[00:40:38.470] Server  LOG     ✓ Compiled in 17ms
+[00:40:42.288] Server  LOG     ✓ Compiled in 21ms
+[00:41:35.225] Server  LOG     ✓ Compiled in 16ms
+[00:41:38.764] Browser WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[00:41:38.764] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body className="geist_a715...">
+                            <Header>
+                              <TopBar>
+                                <Container className="TopBar-mod..." component="section" maxWidth="lg" sx={{...}}>
+                                  <MuiContainer-root as="section" ownerState={{...}} className="MuiContain..." ref={null} ...>
+                                    <Insertion>
++                                   <section
++                                     className="MuiContainer-root MuiContainer-maxWidthLg TopBar-module__XKU1aa__top-..."
++                                   >
+-                                   <style data-emotion="css qzafox-MuiContainer-root" data-s="">
+                            ...
+                  ...
+
+[00:42:10.388] Server  LOG     ✓ Compiled in 20ms
+[00:42:40.419] Server  LOG     ✓ Compiled in 16ms
+[00:42:51.212] Server  LOG     ✓ Compiled in 20ms
+[00:44:51.276] Server  LOG     ✓ Compiled in 21ms
+[00:44:55.540] Server  WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[00:44:56.218] Browser WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[00:44:56.218] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body className="geist_a715...">
+                            <Header>
+                              <TopBar>
+                                <Container className="TopBar-mod..." component="section" maxWidth="lg" sx={{...}}>
+                                  <MuiContainer-root as="section" ownerState={{...}} className="MuiContain..." ref={null} ...>
+                                    <Insertion>
++                                   <section
++                                     className="MuiContainer-root MuiContainer-maxWidthLg TopBar-module__XKU1aa__top-..."
++                                   >
+-                                   <style data-emotion="css qzafox-MuiContainer-root" data-s="">
+                            ...
+                  ...
+
+[00:45:15.850] Server  LOG     ✓ Compiled in 16ms
+[00:49:32.126] Server  LOG     ✓ Compiled in 19ms
+[00:49:41.053] Server  LOG     ✓ Compiled in 21ms
+[00:49:43.690] Server  LOG     ✓ Compiled in 15ms
+[00:49:47.426] Server  LOG     ✓ Compiled in 18ms
+[00:49:51.515] Server  LOG     ✓ Compiled in 18ms
+[00:49:57.274] Server  LOG     ✓ Compiled in 18ms
+[00:50:04.760] Server  LOG     ✓ Compiled in 22ms
+[00:50:28.681] Server  LOG     ✓ Compiled in 15ms
+[00:50:54.075] Server  LOG     ✓ Compiled in 18ms
+[00:51:10.599] Server  LOG     ✓ Compiled in 16ms
+[00:51:23.668] Server  LOG     ✓ Compiled in 23ms
+[00:51:30.525] Server  LOG     ✓ Compiled in 22ms
+[00:51:49.527] Server  LOG     ✓ Compiled in 19ms
+[00:51:50.864] Server  LOG     ✓ Compiled in 17ms
+[00:52:00.503] Server  LOG     ✓ Compiled in 17ms
+[00:52:40.430] Server  LOG     ✓ Compiled in 21ms
+[00:55:37.910] Server  LOG     ✓ Compiled in 90ms
+[00:56:06.223] Server  LOG     ✓ Compiled in 17ms
+[00:57:33.143] Server  LOG     ✓ Compiled in 17ms
+[00:57:47.525] Server  LOG     ✓ Compiled in 18ms
+[00:58:34.251] Server  LOG     ✓ Compiled in 18ms
+[00:59:32.007] Server  WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[00:59:32.673] Browser WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[00:59:55.061] Server  LOG     ✓ Compiled in 18ms
+[01:00:06.794] Browser WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[01:00:15.374] Server  LOG     ✓ Compiled in 22ms
+[01:01:06.993] Server  LOG     ✓ Compiled in 44ms
+[01:01:07.100] Browser ERROR   ./src/components/header/TopBar.module.css
+Error evaluating Node.js code
+CssSyntaxError: C:\Users\mohse\Desktop\Projects\mui\src\components\header\TopBar.module.css:15:4: Unclosed string
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at unclosed (turbopack:///[project]/node_modules/postcss/lib/tokenize.js:45:17)]
+    [at Object.nextToken (turbopack:///[project]/node_modules/postcss/lib/tokenize.js:157:15)]
+    [at Parser.other (turbopack:///[project]/node_modules/postcss/lib/parser.js:421:30)]
+    [at Parser.parse (turbopack:///[project]/node_modules/postcss/lib/parser.js:472:16)]
+    [at parse (turbopack:///[project]/node_modules/postcss/lib/parse.js:11:12)]
+    [at new LazyResult (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:165:16)]
+    [at Processor.process (turbopack:///[project]/node_modules/postcss/lib/processor.js:53:14)]
+    [at transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:51)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:29)]
+
+Import traces:
+  Client Component Browser:
+    ./src/components/header/TopBar.module.css [Client Component Browser]
+    ./src/components/header/TopBar.jsx [Client Component Browser]
+    ./src/components/header/TopBar.jsx [Server Component]
+    ./src/components/header/Header.jsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/header/TopBar.module.css [Client Component SSR]
+    ./src/components/header/TopBar.jsx [Client Component SSR]
+    ./src/components/header/TopBar.jsx [Server Component]
+    ./src/components/header/Header.jsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+[01:01:33.965] Server  LOG     ✓ Compiled in 18ms
+[01:01:52.886] Server  LOG     ✓ Compiled in 20ms
+[01:02:32.911] Server  LOG     ✓ Compiled in 22ms
+[01:03:37.668] Server  LOG     ✓ Compiled in 27ms
+[01:03:37.772] Browser ERROR   ./src/components/header/TopBar.jsx:36:15
+Parsing ecmascript source code failed
+  34 |             <Grid item size={{ xs: 12, md: 6 }} // xs:12, sm:12, md:12, lg:12, xl:12 or grow or auto
+  35 |             // offset={{ xs: 3, md: 0 }} // offset for md and up>
+> 36 |               <Stack direction="row" alignItems="center" spacing={1}>
+     |               ^
+  37 |                 <Typography variant="body2" color="white">
+  38 |                   Free Shipping for orders over $100
+  39 |                 </Typography>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+[01:03:39.772] Browser ERROR   ./src/components/header/TopBar.jsx:37:15
+Parsing ecmascript source code failed
+  35 |             // offset={{ xs: 3, md: 0 }} // offset for md and up
+  36 |             // >
+> 37 |               <Stack direction="row" alignItems="center" spacing={1}>
+     |               ^
+  38 |                 <Typography variant="body2" color="white">
+  39 |                   Free Shipping for orders over $100
+  40 |                 </Typography>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/components/header/TopBar.jsx
+    ./src/components/header/Header.jsx
+    ./src/app/layout.tsx
+[01:04:43.038] Server  LOG     ✓ Compiled in 17ms
+[01:04:46.518] Server  LOG     ✓ Compiled in 19ms
+[01:05:20.674] Server  WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[01:05:21.344] Browser WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[01:06:19.661] Browser WARN    MUI Grid: The `item` prop has been removed and is no longer necessary. You can safely remove it.
+
+[01:06:52.621] Server  LOG     ✓ Compiled in 18ms

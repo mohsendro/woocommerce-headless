@@ -1,0 +1,26 @@
+.top-bar {
+  background-color: var(--main-color);
+  color: var(--background);
+  padding: 0.8rem 0;
+}
+
+.top-bar .top-bar-section {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.top-bar .top-bar-grid {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
